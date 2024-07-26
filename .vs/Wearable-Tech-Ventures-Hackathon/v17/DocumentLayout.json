@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Wearable-Tech-Ventures-Hackathon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338AAF69-6FB8-7EB6-5D27-6FCBD5043303}|Assembly-CSharp.csproj|d:\\github\\wearable-tech-ventures-hackathon\\assets\\scripts\\fly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338AAF69-6FB8-7EB6-5D27-6FCBD5043303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fly.cs",
+              "DocumentMoniker": "D:\\Github\\Wearable-Tech-Ventures-Hackathon\\Assets\\Scripts\\Fly.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fly.cs",
+              "ToolTip": "D:\\Github\\Wearable-Tech-Ventures-Hackathon\\Assets\\Scripts\\Fly.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:39:52.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
